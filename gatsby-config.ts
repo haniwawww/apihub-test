@@ -12,7 +12,7 @@ const config: GatsbyConfig = {
   plugins: [{
     resolve: 'gatsby-plugin-google-analytics',
     options: {
-      "trackingId": "temp-id"
+      "trackingId": "G-5EMDP6BPW1"
     }
   }, "gatsby-plugin-image", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
